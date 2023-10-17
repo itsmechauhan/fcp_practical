@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+//WAP to print  fabonacci_series   
 int i,first=0,second=1,next,n;
 printf("enter N:");
 scanf("%d",&n);
